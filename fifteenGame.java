@@ -12,6 +12,7 @@ import java.util.Random;
 
 /**
  * Fifteen Game Project
+ * Try to order all 15 numbers on the grid by using the up, down, left, and right arrows!
  * @author Alex Kouyoumjian
  */
 
